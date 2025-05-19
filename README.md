@@ -59,8 +59,6 @@ Mδt = (S, A, T_δt, r_δt, γ_δt)
 * Environmental time is fixed across experiments
 * Evaluation done on 30 random seeds for final results
 
-> **Figure Placeholder**: Sensitivity Curves of PPO and A2C on CartPole and Acrobot
-
 ---
 
 ## Results Summary
