@@ -70,10 +70,11 @@ Mδt = (S, A, T_δt, r_δt, γ_δt)
 * Moderate increases in `δt` (e.g. `δt = 2` or `4`) do **not lead to statistically significant drops**
 * This indicates potential for **lower computation** without sacrificing performance
 
-> **Figure Placeholder**: Learning Curves for each algorithm-environment pair
 ![alt text](Sen3.png)
-> **Table Placeholder**: Best Learning Rates per Configuration
+Figure 1: Sensitivity Curve of different algorithms with 30 seeds, with bootstrap confidence intervals.
+
 ![alt text](Learning_Curve.png)
+Figure 2: Learning Curve in Different Environment
 
 ---
 
